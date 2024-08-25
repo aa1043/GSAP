@@ -1,0 +1,25 @@
+*{
+  margin: 0;;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(29, 28, 28);
+  color:aliceblue;
+}
+#nav
+{
+
+  display: flex;
+  justify-content:  space-between;
+  align-items: center;
+  padding: 30px 50px;
+}
+#Part2
+{
+  display:flex;
+  gap:50px;
+}
